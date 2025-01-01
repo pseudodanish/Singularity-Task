@@ -2,7 +2,7 @@ Create a React app with list of users from a static JSON file displays them in a
 Implement a search bar that filters the list of users by name, and store the search query using React's useState hook.
 Additionally, use useEffect to handle initial data loading.
 
-Json Data:
+Json Data: \n
 [
   {
     "id": 1,
